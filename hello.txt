@@ -2,3 +2,6 @@ Hello from branch
 
 //dev1
 this change is written by dev1.
+
+//dev2
+this change is written by dev2.
