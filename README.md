@@ -1,4 +1,4 @@
 ## README.md
 
-This is a very cool README.md
+This is a simple maven hello wolrd.
 
