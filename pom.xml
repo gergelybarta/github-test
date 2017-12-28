@@ -3,6 +3,10 @@
   <groupId>com.infiniteskills.maven</groupId>
   <artifactId>maven-hello-world</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+    <sourceDirectory>src</sourceDirectory>
+    <testSourceDirectory>test</testSourceDirectory>
+  </build>
   <dependencies>
 		<!-- https://mvnrepository.com/artifact/org.junit/junit5-engine -->
 		<dependency>
