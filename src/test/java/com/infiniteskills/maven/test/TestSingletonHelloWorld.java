@@ -11,7 +11,7 @@ class TestSingletonHelloWorld {
 	void testSingleton() 
 	{
 		SingletonHelloWorld shw = SingletonHelloWorld.getInstance();
-		assertEquals(shw.getInstance().hashCode(),shw.hashCode());
+		assertEquals(SingletonHelloWorld.getInstance().hashCode(),shw.hashCode());
 	}
 
 }
